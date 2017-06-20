@@ -1,1 +1,2 @@
 Hello! We are in a class to learn about Git
+You are learning - I am squirming.
